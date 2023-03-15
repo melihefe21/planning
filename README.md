@@ -11,3 +11,6 @@ in py ga ik verder met mijn game
 
 14-03-2023
 in js maak ik mijn horeca af.
+
+15-03-2023
+in js mijn horeca checken en hopelijk voltooien
