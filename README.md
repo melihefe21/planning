@@ -13,4 +13,4 @@ in py ga ik verder met mijn game
 in js maak ik mijn horeca af.
 
 15-03-2023
-in js mijn horeca checken en hopelijk voltooien
+in js mijn horeca checken en hopelijk voltooien en html even snel vragen om af te vinken
