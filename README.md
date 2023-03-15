@@ -1,16 +1,19 @@
 # planning
 
 08-03-2023
-eerst een check je voortgang voor html en beginnen aan de horeca app.
+html: cjv 3,
+js: ruitjes.
 
 09-03-2023
-verder met mijn calculator en verder met mijn horeca app.
+py: calculator,
+js: ruitjes.
 
 10-03-2023
-in py ga ik verder met mijn game
+py game.
 
 14-03-2023
-in js maak ik mijn horeca af.
+js: horeca.
 
 15-03-2023
-in js mijn horeca checken en hopelijk voltooien en html even snel vragen om af te vinken
+js: horeca,
+html: cjv 3.
