@@ -21,7 +21,7 @@ html: cjv 3.
 16-03-2023
 js: ruitjes remake
 
-21-03-202304
+21-03-2023
 js: hulp krijgen.nog extra hulp vragen voor de ruitjes als ik het nog niet snap.
 
 22-03-2023
