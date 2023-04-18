@@ -1,5 +1,8 @@
 # planning
 
+18-04-2023
+js: button 2
+
 13-04-2023
 js: button 1 complete py: game
 08-03-2023
