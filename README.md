@@ -1,4 +1,6 @@
 # planning
+11-05-2023
+js:py game
 
 18-04-2023
 js: button 2 py: game 
